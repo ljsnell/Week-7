@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class ExampleLogarithmTable {	    
+public class ExampleLogarithmTable {	    
 	public static void main(String [] args) {
 		double [][] sheet = new double[10][10];
 		int size = sheet.length;
