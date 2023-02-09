@@ -1,6 +1,6 @@
 //this program illustrates 3D Temp Array
 import java.util.Scanner;
-class ExampleSpew {
+public class ExampleSpew {
 	static Scanner userinput = new Scanner(System.in);
 	public static void main (String[] args)
 	{
